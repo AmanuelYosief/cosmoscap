@@ -32887,7 +32887,7 @@ U.PH.prototype={
 o3:function(){var s=0,r=P.a9(t.H),q=this,p,o,n,m,l,k,j,i,h,g
 var $async$o3=P.a5(function(a,b){if(a===1)return P.a6(b,r)
 while(true)switch(s){case 0:p=$.ag_,o=q.a,n=0
-case 2:if(!(n<25)){s=4
+case 2:if(!(n<26)){s=4
 break}s=5
 return P.a4(G.a6P("https://api.coingecko.com/api/v3/coins/"+p[n]),$async$o3)
 case 5:m=b
@@ -60253,7 +60253,7 @@ $.a8f=null
 $.v0=P.z(t.N,t.BO)
 $.a2D=null
 $.Jv=null
-$.ag_=H.c(["kucoin-shares","cosmos","terra-luna","binancecoin","okb","crypto-com-chain","thorchain","band-protocol","injective-protocol","kava","oasis-network","secret","fetch-ai","iris-network","mirror-protocol","bluzelle","hard-protocol","certik","sentinel-group","likecoin","kira-network","starname","akash-network","switcheo","foam-protocol"],t.i)
+$.ag_=H.c(["kucoin-shares","cosmos","terra-luna","binancecoin","okb","crypto-com-chain","thorchain","band-protocol","injective-protocol","kava","oasis-network","secret","fetch-ai","iris-network","mirror-protocol","bluzelle","hard-protocol","certik","sentinel-group","likecoin","kira-network","starname","akash-network","switcheo","foam-protocol","oraichain-token"],t.i)
 $.agI=H.c([],H.a2("r<l<bW>(l<bW>)>"))
 $.agK=U.alL()
 $.a54=0
