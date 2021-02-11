@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2af9dc431d629eff0a1580c5c9e31aa6",
+  "assets/AssetManifest.json": "950deba1e231cbdb990585a297b08e18",
+"assets/assets/osmosis_promo.gif": "59cdbe57b52b93597f2562040f36f9c6",
 "assets/assets/stargatepromo.gif": "064092f9de25c66c837724cf6361800d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -13,9 +14,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9774b571ca7ecc739481768205f12770",
-"/": "9774b571ca7ecc739481768205f12770",
-"main.dart.js": "738374ed3abd54c4d0e30e05a7d9cb46",
+"index.html": "aae85a2fa347738817e8c97b8a749a09",
+"/": "aae85a2fa347738817e8c97b8a749a09",
+"main.dart.js": "d086ca7603b01574e311c105ce585ab4",
 "manifest.json": "d7bfaad09f7ff20cc690dc633f8d2bb9",
 "version.json": "2681139d39c8e254d57360c4f9765972"
 };
