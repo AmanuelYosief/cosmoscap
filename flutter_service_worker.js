@@ -3,7 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "950deba1e231cbdb990585a297b08e18",
+  "assets/AssetManifest.json": "c9f0ce96490050ccea785909247f7b48",
+"assets/assets/cosmos_launch_story.jpg": "84aa021cbff22f1ef6cf8566a059ef44",
+"assets/assets/hehe.png": "50b79291fbd1116e1d2c9f2b93a1cdb1",
+"assets/assets/logo_header.png": "c03986bc81e4a70e396c2aeb5716a257",
 "assets/assets/osmosis_promo.gif": "59cdbe57b52b93597f2562040f36f9c6",
 "assets/assets/stargatepromo.gif": "064092f9de25c66c837724cf6361800d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -12,11 +15,12 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "cosmos.png": "fd93ddb7243853c5173e3bc865bc6d3e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"FaviconTransparent.ico": "567af23ff6e0f629f676475ba61111ba",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "aae85a2fa347738817e8c97b8a749a09",
-"/": "aae85a2fa347738817e8c97b8a749a09",
-"main.dart.js": "d086ca7603b01574e311c105ce585ab4",
+"index.html": "9998303390d4fe3e0d365741f04b2b91",
+"/": "9998303390d4fe3e0d365741f04b2b91",
+"main.dart.js": "d7ef01c507b239ae138d663c721bafb6",
 "manifest.json": "d7bfaad09f7ff20cc690dc633f8d2bb9",
 "version.json": "2681139d39c8e254d57360c4f9765972"
 };
