@@ -33076,7 +33076,7 @@ o5:function(){var s=0,r=P.a5(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$o5=P.a0(function(a2,a3){if(a2===1){p=a3
 s=q}while(true)switch(s){case 0:q=3
 i=$.anr,h=n.a,g=0
-case 6:if(!(g<8)){s=8
+case 6:if(!(g<9)){s=8
 break}m=i[g]
 s=9
 return P.a_(G.xn("https://api.coingecko.com/api/v3/coins/"+H.b(m)),$async$o5)
@@ -33117,7 +33117,7 @@ o6:function(){var s=0,r=P.a5(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$o6=P.a0(function(a2,a3){if(a2===1){p=a3
 s=q}while(true)switch(s){case 0:q=3
 i=$.ans,h=n.a,g=0
-case 6:if(!(g<11)){s=8
+case 6:if(!(g<12)){s=8
 break}m=i[g]
 s=9
 return P.a_(G.xn("https://api.coingecko.com/api/v3/coins/"+H.b(m)),$async$o6)
@@ -60477,8 +60477,8 @@ $.vg=P.B(t.N,t.BO)
 $.a3O=null
 $.JV=null
 $.anq=H.c(["kucoin-shares","cosmos","terra-luna","binancecoin","okb","crypto-com-chain","thorchain","band-protocol","aragon"],t.i)
-$.anr=H.c(["injective-protocol","kava","oasis-network","secret","fetch-ai","iris-network","mirror-protocol","bluzelle"],t.i)
-$.ans=H.c(["hard-protocol","certik","sentinel-group","likecoin","kira-network","starname","akash-network","switcheo","foam-protocol","oraichain-token","e-money"],t.i)
+$.anr=H.c(["injective-protocol","kava","oasis-network","secret","fetch-ai","iris-network","mirror-protocol","bluzelle","anchor-protocol"],t.i)
+$.ans=H.c(["hard-protocol","certik","sentinel-group","likecoin","kira-network","starname","akash-network","switcheo","foam-protocol","oraichain-token","e-money","terrausd"],t.i)
 $.ahN=H.c([],H.a6("r<m<c_>(m<c_>)>"))
 $.ahP=U.amQ()
 $.a6e=0
