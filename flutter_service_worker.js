@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b1b50dd7a38538f5d8c1245568eead7e",
+  "assets/AssetManifest.json": "205aff92b29b55d5b7e3d8cb88d8d355",
 "assets/assets/secretSwapIcon.gif": "f8d7afa7ddd8e8b7e82435462577509b",
 "assets/assets/secretSwapPromo.png": "ec4272fd6a2cc348fac982a28b786afc",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -14,8 +14,8 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4bbef49c6dc1a2cd7bc1dd6d7793eedd",
-"/": "4bbef49c6dc1a2cd7bc1dd6d7793eedd",
+"index.html": "d8491b9f3aeb83c85dabde563d574fa3",
+"/": "d8491b9f3aeb83c85dabde563d574fa3",
 "main.dart.js": "80b7d685d9972c87d7921f8811ab1af5",
 "manifest.json": "d7bfaad09f7ff20cc690dc633f8d2bb9",
 "version.json": "2681139d39c8e254d57360c4f9765972"
