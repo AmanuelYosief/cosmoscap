@@ -35168,7 +35168,7 @@ oT(){var s=0,r=P.a1(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$oT=P.Y(function(a1,a2){if(a1===1){p=a2
 s=q}while(true)switch(s){case 0:q=3
 i=$.atp,h=n.a,g=0
-case 6:if(!(g<9)){s=8
+case 6:if(!(g<10)){s=8
 break}m=i[g]
 s=9
 return P.V(G.z5("https://api.coingecko.com/api/v3/coins/"+H.b(m)),$async$oT)
@@ -35209,7 +35209,7 @@ oU(){var s=0,r=P.a1(t.H),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$oU=P.Y(function(a1,a2){if(a1===1){p=a2
 s=q}while(true)switch(s){case 0:q=3
 i=$.atq,h=n.a,g=0
-case 6:if(!(g<12)){s=8
+case 6:if(!(g<13)){s=8
 break}m=i[g]
 s=9
 return P.V(G.z5("https://api.coingecko.com/api/v3/coins/"+H.b(m)),$async$oU)
@@ -66018,8 +66018,8 @@ $.aeP=null
 $.wW=P.C(t.N,t._8)
 $.a8u=null
 $.N0=null
-$.atp=H.c(["kucoin-shares","cosmos","terra-luna","binancecoin","okb","crypto-com-chain","thorchain","band-protocol","aragon"],t.i)
-$.atq=H.c(["injective-protocol","kava","oasis-network","secret","fetch-ai","iris-network","mirror-protocol","bluzelle","anchor-protocol","sifchain","bitsong","juno-network"],t.i)
+$.atp=H.c(["kucoin-shares","cosmos","terra-luna","binancecoin","okb","crypto-com-chain","thorchain","band-protocol","aragon","odin-protocol"],t.i)
+$.atq=H.c(["injective-protocol","kava","oasis-network","secret","fetch-ai","iris-network","mirror-protocol","bluzelle","anchor-protocol","sifchain","bitsong","juno-network","chihuahua-token"],t.i)
 $.atr=H.c(["kava-lend","certik","sentinel","likecoin","kira-network","starname","akash-network","switcheo","foam-protocol","oraichain-token","e-money","terrausd","persistence","osmosis","ion","secret-finance","sienna"],t.i)
 $.anH=U.asM()
 $.abn=0
