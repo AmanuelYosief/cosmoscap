@@ -1,6 +1,6 @@
 {
-    "name": "cosmos_cap",
-    "short_name": "cosmos_cap",
+    "name": "new_cosmos_cap",
+    "short_name": "new_cosmos_cap",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
